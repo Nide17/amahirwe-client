@@ -6,7 +6,7 @@ import {
 import { tokenConfig } from '../auth/auth.actions'
 
 const axiosInstance = axios.create({
-  baseURL: 'https://okaziyo-server-me52.onrender.com',
+  baseURL: 'https://amahirwe-server.onrender.com',
 });
 
 

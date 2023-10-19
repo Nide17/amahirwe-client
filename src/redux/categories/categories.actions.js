@@ -4,7 +4,7 @@ import { GET_CATEGORIES, GET_CATEGORIES_FAIL, CREATE_CATEGORY, CREATE_CATEGORY_F
 import { tokenConfig } from '../auth/auth.actions'
 
 const axiosInstance = axios.create({
-  baseURL: 'https://okaziyo-server-me52.onrender.com',
+  baseURL: 'https://amahirwe-server.onrender.com',
 });
 
 // View all categories
