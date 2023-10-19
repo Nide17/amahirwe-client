@@ -4,7 +4,6 @@ import axios from 'axios';
 import { tokenConfig } from '../auth/auth.actions'
 import { returnErrors } from "../error/error.actions";
 
-
 const axiosInstance = axios.create({
   baseURL: 'https://amahirwe-server.onrender.com',
 });
